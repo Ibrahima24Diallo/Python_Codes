@@ -1,1 +1,1 @@
-# Python_Codes
+This repository showcases my Python skills through hands on labs and personal projects completed as part of a Database Management degree. It includes examples of data cleaning, data analysis, file handling, and basic automation using Python and its standard libraries. I used Python to work with CSV files, manage datasets, apply object-oriented programming, and perform simple data visualizations. These projects reflect practical experience with problem solving, data manipulation, and applying Python to real-world database and data tasks.
