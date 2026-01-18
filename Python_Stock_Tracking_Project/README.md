@@ -14,5 +14,5 @@ This project is a Python-based stock tracking application built using object-ori
 
 # Technologies used in this project
 
-Python • Tkinter • Matplotlib • CSV/Data Parsing • Web Scraping • Unit Testing
+Python • Tkinter • Matplotlib • Pandas, CSV/Data Parsing • Web Scraping • Unit Testing
 
